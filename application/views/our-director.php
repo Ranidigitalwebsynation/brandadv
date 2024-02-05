@@ -28,7 +28,7 @@
        <div class="container">
            <div class="row gx-40">
                <div class="col-xl-6 ">
-                   <img src="assets/img/about/faq-1-1.png" alt="image" class="sticky-image">
+                   <img src="assets/img/about/faq-1-1.png" alt="image" class="sticky-image img-fluid">
                </div>
 
                <div class="col-xl-6 mb-30 col-12">

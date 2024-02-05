@@ -152,4 +152,53 @@ class Welcome extends CI_Controller
 		$data["title"] = "Tittle";
 		$this->load->view('include/template', $data);
 	}
+	public function opinion_and_image_building_campaigns()
+	{
+		$data = array();
+		$data["file"] = "opinion-and-image-building-campaigns";
+		$data["title"] = "Tittle";
+		$this->load->view('include/template', $data);
+	}
+	public function organizational_behavior_and_management_research()
+	{
+		$data = array();
+		$data["file"] = "organizational-behavior-and-management-research";
+		$data["title"] = "Tittle";
+		$this->load->view('include/template', $data);
+	}
+	public function product_evaluation_brand_studies_assessment_and_analysis()
+	{
+		$data = array();
+		$data["file"] = "product-evaluation-brand-studies-assessment-and-analysis";
+		$data["title"] = "Tittle";
+		$this->load->view('include/template', $data);
+	}
+	public function management_development_training_programmes()
+	{
+		$data = array();
+		$data["file"] = "management-development-training-programmes";
+		$data["title"] = "Tittle";
+		$this->load->view('include/template', $data);
+	}
+	public function strategy_development_management_workshops()
+	{
+		$data = array();
+		$data["file"] = "strategy-development-management-workshops";
+		$data["title"] = "Tittle";
+		$this->load->view('include/template', $data);
+	}
+	public function brand_building_advocacies_perception_management_meetings()
+	{
+		$data = array();
+		$data["file"] = "brand-building-advocacies-perception-management-meetings";
+		$data["title"] = "Tittle";
+		$this->load->view('include/template', $data);
+	}
+	public function customer_care()
+	{
+		$data = array();
+		$data["file"] = "customer-care";
+		$data["title"] = "Tittle";
+		$this->load->view('include/template', $data);
+	}
 }

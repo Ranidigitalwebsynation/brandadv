@@ -36,6 +36,9 @@
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-1.jpg" alt="gallery">
                   </a>
                </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
             </div>
          </div>
          <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.4s">
@@ -44,6 +47,9 @@
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-2.jpg">
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-2.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -54,6 +60,9 @@
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-3.jpg" alt="gallery">
                   </a>
                </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
             </div>
          </div>
          <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.6s">
@@ -62,6 +71,9 @@
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-4.jpg">
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-4.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -72,6 +84,9 @@
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-5.jpg" alt="gallery">
                   </a>
                </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
             </div>
          </div>
          <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.8s">
@@ -80,6 +95,9 @@
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-6.jpg">
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-6.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -90,6 +108,9 @@
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-7.jpg" alt="gallery">
                   </a>
                </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
             </div>
          </div>
          <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
@@ -98,6 +119,9 @@
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-8.jpg">
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-8.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -108,6 +132,9 @@
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-9.jpg" alt="gallery">
                   </a>
                </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
             </div>
          </div>
          <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
@@ -116,6 +143,9 @@
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-10.jpg">
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-10.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -126,6 +156,9 @@
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-11.jpg" alt="gallery">
                   </a>
                </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
             </div>
          </div>
          <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
@@ -134,6 +167,9 @@
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-12.jpg">
                      <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-12.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>

@@ -17,7 +17,7 @@
             <div class="col-xl-4">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-1.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/blog/blog-2-1.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
@@ -37,7 +37,7 @@
             <div class="col-xl-4">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-2.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/blog/blog-2-2.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
@@ -57,7 +57,7 @@
             <div class="col-xl-4">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-3.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/blog/blog-2-3.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
@@ -77,7 +77,7 @@
             <div class="col-xl-4">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details.php"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details.php"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">

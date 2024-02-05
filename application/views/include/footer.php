@@ -47,13 +47,14 @@
                                         <li><a href="<?php echo base_url(); ?>#">Service</a></li>
                                         <li><a href="<?php echo base_url(); ?>event">Event</a></li>
                                         <li><a href="<?php echo base_url(); ?>report">Report</a></li>
+                                        <li><a href="<?php echo base_url(); ?>blog">Blog</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="col-auto">
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
-                                        <li><a href="<?php echo base_url(); ?>blog">Blog</a></li>
+
                                         <li><a href="<?php echo base_url(); ?>gallery">Gallery</a></li>
                                         <li><a href="<?php echo base_url(); ?>contact">Contact</a></li>
                                     </ul>
@@ -70,23 +71,24 @@
                             <div class="col-auto">
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
-                                        <li><a href="<?php echo base_url(); ?>#">Home</a></li>
-                                        <li><a href="<?php echo base_url(); ?>#">About Us</a></li>
-                                        <li><a href="<?php echo base_url(); ?>#">Service</a></li>
-                                        <li><a href="<?php echo base_url(); ?>#">Event</a></li>
-                                        <li><a href="<?php echo base_url(); ?>#">Report</a></li>
+                                        <li><a href="<?php echo base_url(); ?>public-policy-studies">Public Policy Studies</a></li>
+                                        <li><a href="<?php echo base_url(); ?>opinion-and-image-building-campaigns">Opinion and Image Building Campaigns </a></li>
+                                        <li><a href="<?php echo base_url(); ?>organizational-behavior-and-management-research">Organizational Behavior and Management <span class="footertxt mt-3">Research </span></a></li>
+                                        <li><a href="<?php echo base_url(); ?>product-evaluation-brand-studies-assessment-and-analysis">Product Evaluation, Brand Studies,<br><span class="footertxt "> Assessment and Analysis </span></a></li>
+                                        <li><a href="<?php echo base_url(); ?>management-development-training-programmes">Management Development Training
+                                                <span class="footertxt "> Programmes</span> </a></li>
+                                        <li><a href="<?php echo base_url(); ?>strategy-development-management-workshops">Strategy Development Management <br> <span class="footertxt ">Workshops </span> </a></li>
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-auto">
+                            <!-- <div class="col-auto">
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
-                                        <li><a href="<?php echo base_url(); ?>#">Blog</a></li>
-                                        <li><a href="<?php echo base_url(); ?>#">Gallery</a></li>
-                                        <li><a href="<?php echo base_url(); ?>#">Contact</a></li>
+                                        
+
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

@@ -80,13 +80,13 @@
                   <a href="javascript:void(0)">Service</a>
                   <ul class="sub-menu">
                      <li><a href="<?php echo base_url(); ?>public-policy-studies">Public Policy Studies</a></li>
-                     <li><a href="<?php echo base_url(); ?>#">Opinion and Image Building Campaigns </a></li>
-                     <li><a href="<?php echo base_url(); ?>#">Organizational Behavior and Management Research</a></li>
-                     <li><a href="<?php echo base_url(); ?>#">Product Evaluation, Brand Studies, Assessment and Analysis</a></li>
-                     <li><a href="<?php echo base_url(); ?>#">Management Development Training Programmes</a></li>
-                     <li><a href="<?php echo base_url(); ?>#">Strategy Development Management Workshops </a></li>
-                     <li><a href="<?php echo base_url(); ?>#">Brand Building Advocacies and Perception Management Meetings </a></li>
-                     <li><a href="<?php echo base_url(); ?>#">Customer Care </a></li>
+                     <li><a href="<?php echo base_url(); ?>opinion-and-image-building-campaigns">Opinion and Image Building Campaigns </a></li>
+                     <li><a href="<?php echo base_url(); ?>organizational-behavior-and-management-research">Organizational Behavior and Management Research</a></li>
+                     <li><a href="<?php echo base_url(); ?>product-evaluation-brand-studies-assessment-and-analysis">Product Evaluation, Brand Studies, Assessment and Analysis</a></li>
+                     <li><a href="<?php echo base_url(); ?>management-development-training-programmes">Management Development Training Programmes</a></li>
+                     <li><a href="<?php echo base_url(); ?>strategy-development-management-workshops">Strategy Development Management Workshops </a></li>
+                     <li><a href="<?php echo base_url(); ?>brand-building-advocacies-perception-management-meetings">Brand Building Advocacies and Perception Management Meetings </a></li>
+                     <li><a href="<?php echo base_url(); ?>customer-care">Customer Care </a></li>
                   </ul>
                </li>
 
@@ -168,13 +168,13 @@
                               <a href="<?php echo base_url(); ?>#">Service</a>
                               <ul class="sub-menu">
                                  <li><a href="<?php echo base_url(); ?>public-policy-studies">Public Policy Studies</a></li>
-                                 <li><a href="<?php echo base_url(); ?>#">Opinion and Image Building <br>Campaigns </a></li>
-                                 <li><a href="<?php echo base_url(); ?>#">Organizational Behavior <br>and Management Research </a></li>
-                                 <li><a href="<?php echo base_url(); ?>#">Product Evaluation, Brand Studies, <br>Assessment and Analysis </a></li>
-                                 <li><a href="<?php echo base_url(); ?>#">Management Development<br> Training Programmes </a></li>
-                                 <li><a href="<?php echo base_url(); ?>#">Strategy Development <br>Management Workshops </a></li>
-                                 <li><a href="<?php echo base_url(); ?>#">Brand Building Advocacies and <br> Perception Management Meetings </a></li>
-                                 <li><a href="<?php echo base_url(); ?>#">Customer Care </a></li>
+                                 <li><a href="<?php echo base_url(); ?>opinion-and-image-building-campaigns">Opinion and Image Building <br>Campaigns </a></li>
+                                 <li><a href="<?php echo base_url(); ?>organizational-behavior-and-management-research">Organizational Behavior <br>and Management Research </a></li>
+                                 <li><a href="<?php echo base_url(); ?>product-evaluation-brand-studies-assessment-and-analysis">Product Evaluation, Brand Studies, <br>Assessment and Analysis </a></li>
+                                 <li><a href="<?php echo base_url(); ?>management-development-training-programmes">Management Development<br> Training Programmes </a></li>
+                                 <li><a href="<?php echo base_url(); ?>strategy-development-management-workshops">Strategy Development <br>Management Workshops </a></li>
+                                 <li><a href="<?php echo base_url(); ?>brand-building-advocacies-perception-management-meetings">Brand Building Advocacies and <br> Perception Management Meetings </a></li>
+                                 <li><a href="<?php echo base_url(); ?>customer-care">Customer Care </a></li>
                               </ul>
                            </li>
                            <li>

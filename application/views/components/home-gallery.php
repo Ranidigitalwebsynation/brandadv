@@ -16,8 +16,13 @@
             <div class="gallery-style4">
                <div class="gallery-img">
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-1.jpg">
-                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-1.jpg" alt="gallery">
+                     <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/gallery/g-5-1.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+
+
                </div>
             </div>
          </div>
@@ -25,8 +30,11 @@
             <div class="gallery-style4">
                <div class="gallery-img">
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-2.jpg">
-                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-2.jpg" alt="gallery">
+                     <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/gallery/g-5-2.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -34,8 +42,11 @@
             <div class="gallery-style4">
                <div class="gallery-img">
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-3.jpg">
-                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-3.jpg" alt="gallery">
+                     <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/gallery/g-5-3.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -43,8 +54,11 @@
             <div class="gallery-style4">
                <div class="gallery-img">
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-4.jpg">
-                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-4.jpg" alt="gallery">
+                     <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/gallery/g-5-4.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -52,8 +66,11 @@
             <div class="gallery-style4">
                <div class="gallery-img">
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-5.jpg">
-                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-5.jpg" alt="gallery">
+                     <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/gallery/g-5-5.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -61,8 +78,11 @@
             <div class="gallery-style4">
                <div class="gallery-img">
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-6.jpg">
-                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-6.jpg" alt="gallery">
+                     <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/gallery/g-5-6.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -70,8 +90,11 @@
             <div class="gallery-style4">
                <div class="gallery-img">
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-7.jpg">
-                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-7.jpg" alt="gallery">
+                     <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/gallery/g-5-7.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>
@@ -79,8 +102,11 @@
             <div class="gallery-style4">
                <div class="gallery-img">
                   <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-8.jpg">
-                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-8.jpg" alt="gallery">
+                     <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/gallery/g-5-8.jpg" alt="gallery">
                   </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
                </div>
             </div>
          </div>

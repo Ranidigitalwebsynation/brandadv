@@ -4,11 +4,11 @@
    <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/header-bg-1-1.jpg">
        <div class="container z-index-common">
            <div class="breadcumb-content">
-               <h1 class="breadcumb-title">Public Policy Studies</h1>
+               <h1 class="breadcumb-title">Opinion And Image Building Campaigns</h1>
                <div class="breadcumb-menu-wrap">
                    <ul class="breadcumb-menu">
                        <li><a href="<?php echo base_url(); ?>">Home</a></li>
-                       <li>Public Policy Studies</li>
+                       <li>Opinion And Image Building Campaigns</li>
                    </ul>
                </div>
            </div>
@@ -32,7 +32,7 @@
                        <div class="pill"></div>
                    </div>
                    <span class="sec-subtitle3">Services Details</span>
-                   <h3 class="event-title h4 mb-2 mb-xxl-3 pb-1">Public Policy Studies</h3>
+                   <h3 class="event-title h4 mb-2 mb-xxl-3 pb-1">Opinion And Image Building Campaigns</h3>
                    <p class="about-text1 mb-xl-3 mb-xxl-4 pb-2">Antony Karlson is responsible for Financial Company's operations both nationally and for the East and Central regions.Market evolve comping supply chains without virtual resourc. Antony Karlson is responsible for Financial Company's operations both nationally and for the East and Central regions.Market evolve comping supply chains without virtual resourc.</p>
 
                    <div class="list-style3">
