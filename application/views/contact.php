@@ -19,28 +19,8 @@
     ==============================-->
 <section class=" space-top">
     <div class="contact-map">
-        <div class="mapouter">
-            <div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=1200&amp;height=600&amp;hl=en&amp;q=Brandvocates, Paradise, Ff03, D12, Acharyaniketan, Mayur Vihar Phase1 Delhi 110091&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://connectionsgame.org/">Connections NYT</a></div>
-            <style>
-                .mapouter {
-                    position: relative;
-                    text-align: right;
-                    width: 1440px;
-                    height: 600px;
-                }
-
-                .gmap_canvas {
-                    overflow: hidden;
-                    background: none !important;
-                    width: 1440px;
-                    height: 600px;
-                }
-
-                .gmap_iframe {
-                    width: 1440px !important;
-                    height: 600px !important;
-                }
-            </style>
+        <div class="ratio ratio-21x9">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883" allowfullscreen=""></iframe>
         </div>
     </div>
     <div class="container">

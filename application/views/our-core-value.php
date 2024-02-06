@@ -20,7 +20,7 @@
    <!--==============================
       our comapny
     ==============================-->
-   <section class="vs-blog-wrapper blog-details blog-wrap1 space-top space-extra-bottom" data-bg-src="assets/img/bg/blog-main-bg-2-1.jpg">
+   <!-- <section class="vs-blog-wrapper blog-details blog-wrap1 space-top space-extra-bottom" data-bg-src="assets/img/bg/blog-main-bg-2-1.jpg">
        <div class="container">
            <div class=" gx-40">
 
@@ -60,5 +60,102 @@
 
 
            </div>
+       </div>
+   </section> -->
+   <section class="vs-blog-wrapper space">
+       <div class="container">
+           <div class="row justify-content-center">
+               <div class="col-xl-7 text-center wow fadeInUp" data-wow-delay="0.3s">
+                   <div class="title-area">
+                       <div class="sec-pills">
+                           <div class="pill"></div>
+                           <div class="pill"></div>
+                           <div class="pill"></div>
+                       </div>
+                       <span class="sec-subtitle">Our Core Value</span>
+                       <h2 class="sec-title">Exibiting Best Corporate Governance Through</h2>
+                   </div>
+               </div>
+           </div>
+           <div class="row  wow fadeInUp">
+
+               <div class="col-xl-4">
+                   <div class="vs-blog blog-style1">
+                       <div class="blog-img">
+                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-1.jpg" alt="Blog Image" class="w-100"></a>
+                       </div>
+                       <div class="blog-content">
+
+                           <h3 class="blog-title h5"> Highest set of management ethics,</a></h3>
+
+                       </div>
+                   </div>
+               </div>
+
+               <div class="col-xl-4">
+                   <div class="vs-blog blog-style1">
+                       <div class="blog-img">
+                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-2.jpg" alt="Blog Image" class="w-100"></a>
+                       </div>
+                       <div class="blog-content">
+
+                           <h3 class="blog-title h5">Functional transparencies,</h3>
+
+                       </div>
+                   </div>
+               </div>
+
+               <div class="col-xl-4">
+                   <div class="vs-blog blog-style1">
+                       <div class="blog-img">
+                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-3.jpg" alt="Blog Image" class="w-100"></a>
+                       </div>
+                       <div class="blog-content">
+
+                           <h3 class="blog-title h5">Mutual trust and commitments</h3>
+
+                       </div>
+                   </div>
+               </div>
+
+               <div class="col-xl-4">
+                   <div class="vs-blog blog-style1">
+                       <div class="blog-img">
+                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-4.jpg" alt="Blog Image" class="w-100"></a>
+                       </div>
+                       <div class="blog-content">
+
+                           <h3 class="blog-title h5"> Togetherness and teamwork</h3>
+
+                       </div>
+                   </div>
+               </div>
+               <div class="col-xl-4">
+                   <div class="vs-blog blog-style1">
+                       <div class="blog-img">
+                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-4.jpg" alt="Blog Image" class="w-100"></a>
+                       </div>
+                       <div class="blog-content">
+
+                           <h3 class="blog-title h5"> Continual improvements and</h3>
+
+                       </div>
+                   </div>
+               </div>
+               <div class="col-xl-4">
+                   <div class="vs-blog blog-style1">
+                       <div class="blog-img">
+                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-4.jpg" alt="Blog Image" class="w-100"></a>
+                       </div>
+                       <div class="blog-content">
+
+                           <h3 class="blog-title h5"> Brandvocates Company’s pride</h3>
+
+                       </div>
+                   </div>
+               </div>
+
+           </div>
+
        </div>
    </section>

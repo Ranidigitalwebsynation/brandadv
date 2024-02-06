@@ -33,7 +33,7 @@
                            <li>
                                <p>Professionalism, Performance, Excellence and Clients’ Delight</p>
                            </li>
-                           <!-- <li>
+                           <li>
                                <p>We are extensively engaged in change management process like structural re-engineering, systemic renovations, procedural reforms, and behavioral interventions that enable the functional efficiency, productivity and brand image of corporates, industrial entities, and service utilities.</p>
                            </li>
 
@@ -45,7 +45,7 @@
                            </li>
                            <li>
                                <p>We design, develop, and execute NEED BASED MANAGEMENT DEVELOPMENT MODULES for the training of corporates, industries, and public utilities on the various model subjects of newer management policies, organizational behavior, performance excellence boosters, business development strategies and customer delight enlargement activities.</p>
-                           </li> -->
+                           </li>
 
                        </ol>
                    </div>

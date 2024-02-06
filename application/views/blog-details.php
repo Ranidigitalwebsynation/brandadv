@@ -29,10 +29,10 @@
                         <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/blog/blog-s-1-1.jpg" alt="Blog Image">
                     </div>
                     <div class="blog-content">
-                        <a class="blog-date" href="blog.php">01 Jan, 2023</a>
+                        <!-- <a class="blog-date" href="blog.php">01 Jan, 2023</a> -->
                         <div class="blog-meta">
-                            <a href="<?php echo base_url(); ?>blog.php"><i class="fas fa-user"></i>Thomas Walkar</a>
-                            <a href="<?php echo base_url(); ?>blog.php"><i class="fas fa-comment-alt-lines"></i>256 Comments</a>
+                            <a href="javascript:void(0)"><i class="fas fa-user"></i>Thomas Walkar</a>
+                            <a href="javascript:void(0)"><i class="fas fa-calendar"></i>10-02-2024</a>
                         </div>
                         <h2 class="blog-title">Startup Business Solution Improve Your Quality...</h2>
                         <p>Analyzing competing products or services can give you an idea of what already exists in your industry. This can help you find ways to improve your idea. It can also help you target weaknesses in your product or service before you spend time and money creating it. Be sure to note your competitor’s prices during this process, which will give you a range of how much customers are currently spending on similar products.</p>

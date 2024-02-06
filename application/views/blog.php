@@ -95,7 +95,7 @@
             <div class="col-xl-4 col-md-6">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details.php"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details   "><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
@@ -106,8 +106,8 @@
                                 <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>David Walkar</a>
                                 <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
                             </div>
-                            <h3 class="blog-title h5"><a href="blog-details.php">Creation timelines the standard passage vary...</a></h3>
-                            <a href="<?php echo base_url(); ?>blog-details.php" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
+                            <h3 class="blog-title h5"><a href="blog-details   ">Creation timelines the standard passage vary...</a></h3>
+                            <a href="<?php echo base_url(); ?>blog-details   " class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -115,7 +115,7 @@
             <div class="col-xl-4 col-md-6">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details.php"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details   "><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
@@ -126,8 +126,8 @@
                                 <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>David Walkar</a>
                                 <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
                             </div>
-                            <h3 class="blog-title h5"><a href="blog-details.php">Creation timelines the standard passage vary...</a></h3>
-                            <a href="<?php echo base_url(); ?>blog-details.php" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
+                            <h3 class="blog-title h5"><a href="blog-details   ">Creation timelines the standard passage vary...</a></h3>
+                            <a href="<?php echo base_url(); ?>blog-details   " class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
             <div class="col-xl-4 col-md-6">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details.php"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details   "><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
@@ -146,8 +146,8 @@
                                 <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>David Walkar</a>
                                 <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
                             </div>
-                            <h3 class="blog-title h5"><a href="blog-details.php">Creation timelines the standard passage vary...</a></h3>
-                            <a href="<?php echo base_url(); ?>blog-details.php" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
+                            <h3 class="blog-title h5"><a href="blog-details   ">Creation timelines the standard passage vary...</a></h3>
+                            <a href="<?php echo base_url(); ?>blog-details   " class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

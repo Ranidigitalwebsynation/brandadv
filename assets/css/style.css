@@ -5879,7 +5879,9 @@ blockquote.vs-quote2 p {
   background-color: var(--white-color);
   border-radius: 12px;
   transition: all ease 0.4s;
+  border: 2px groove #e36900;
 }
+
 
 .blog-style1 .blog-img img {
   width: 100%;
@@ -5945,7 +5947,8 @@ blockquote.vs-quote2 p {
 }
 
 .blog-style1 .blog-content {
-  padding: 30px 40px 40px 40px;
+  /* padding: 30px 40px 40px 40px; */
+  padding: 15px 40px 20px 40px;
 }
 
 .blog-style1:hover {
@@ -6435,7 +6438,8 @@ blockquote.vs-quote2 p {
 /* Medium Large devices */
 @media (max-width: 1399px) {
   .blog-style1 .blog-content {
-    padding: 30px 25px 40px 25px;
+    /* padding: 30px 25px 40px 25px; */
+    padding: 25px 25px 10px 20px;
   }
 
   .blog-style1 .blog-title {
@@ -8593,7 +8597,7 @@ blockquote.vs-quote2 p {
   align-items: center;
   background-color: var(--theme-color);
   border-radius: 20px;
-  padding: 20px 60px 20px 60px;
+  padding: 15px 30px 15px 30px;
 }
 
 .media-style4 .media-icon {
@@ -8612,12 +8616,13 @@ blockquote.vs-quote2 p {
 
 .media-style4 .media-info {
   margin: 0;
-  font-size: 25px;
+  font-size: 15px;
   font-weight: 600;
   color: #56575d;
   letter-spacing: -0.02em;
   line-height: 1.3;
   color: var(--white-color);
+  text-align: center;
 }
 
 .media-style4.layout2 {
@@ -9129,7 +9134,7 @@ blockquote.vs-quote2 p {
 }
 
 .feature-style1 .feature-content {
-  padding: 0 35px 40px 35px;
+  padding: 0 35px 25px 35px;
 }
 
 .feature-style1 .feature-img {
@@ -9269,7 +9274,7 @@ blockquote.vs-quote2 p {
   }
 
   .feature-style1 .feature-content {
-    padding: 0 20px 40px 20px;
+    padding: 0 20px 25px 20px;
   }
 
   .feature-style1 .feature-text {
@@ -9820,13 +9825,14 @@ blockquote.vs-quote2 p {
 }
 
 .service-style4 .service-icon {
-  margin: 0 0 55px 0;
+  /* margin: 0 0 55px 0; */
+  margin: 0 0 45px 0;
 }
 
 .service-style4 .service-title {
   font-size: 22px;
   font-weight: 600;
-  max-width: 200px;
+  /* max-width: 200px; */
   margin: 0;
 }
 
@@ -11049,6 +11055,7 @@ blockquote.vs-quote2 p {
 
 .gallery-style4 .gallery-img {
   overflow: hidden;
+  border: 1px groove #e36900;
 }
 
 .gallery-style4 .gallery-img img {
@@ -11098,6 +11105,7 @@ blockquote.vs-quote2 p {
   transition: all ease 0.4s;
   opacity: 0;
   visibility: hidden;
+  text-align: center;
 }
 
 .gallery-style4 .gallery-btn {
@@ -13265,7 +13273,7 @@ blockquote.vs-quote2 p {
 }
 
 .footertxt {
-  padding-left: 25px;
+  padding-left: 20px;
 }
 
 .img-1 {
@@ -13326,5 +13334,12 @@ img.sticky-image.img-fluid {
   min-height: 646px;
   max-height: 646px;
 }
+
+/* 
+@media(max-width: 1399px) {
+  .blog-style1 .blog-content {
+    padding: 25px 25px 10px 20px;
+  }
+} */
 
 /*# sourceMappingURL=style.css.map */

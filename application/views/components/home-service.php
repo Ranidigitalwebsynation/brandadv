@@ -1,22 +1,23 @@
 <section class=" space-top space-extra-bottom" data-bg-src="assets/img/bg/sr-bg-5-1.jpg">
     <div class="container z-index-common">
         <div class="row justify-content-between">
-            <div class="col-lg-auto text-center text-lg-start">
+
+            <div class=" text-center wow fadeInUp" data-wow-delay="0.3s">
                 <div class="title-area">
                     <div class="sec-pills">
                         <div class="pill"></div>
                         <div class="pill"></div>
                         <div class="pill"></div>
                     </div>
-                    <span class="sec-subtitle3">Business Strategy or services</span>
-                    <h2 class="sec-title2">Solution Industries</h2>
+                    <span class="sec-subtitle">Business Strategy or services</span>
+                    <h2 class="sec-title">Solution Industries</h2>
                 </div>
             </div>
-            <div class="col-auto align-self-end d-none d-sm-block">
+            <!-- <div class="col-auto align-self-end d-none d-sm-block">
                 <div class="sec-btn">
                     <a href="<?php echo base_url(); ?>service" class="vs-btn style7">More Service</a>
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class="row justify-content-center">
             <div class="col-sm-6 col-lg-4 col-xl-3  wow fadeInUp" data-wow-delay="0.3s">

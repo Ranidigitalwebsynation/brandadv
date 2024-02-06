@@ -73,7 +73,7 @@
                                     <ul class="menu">
                                         <li><a href="<?php echo base_url(); ?>public-policy-studies">Public Policy Studies</a></li>
                                         <li><a href="<?php echo base_url(); ?>opinion-and-image-building-campaigns">Opinion and Image Building Campaigns </a></li>
-                                        <li><a href="<?php echo base_url(); ?>organizational-behavior-and-management-research">Organizational Behavior and Management <span class="footertxt mt-3">Research </span></a></li>
+                                        <li><a href="<?php echo base_url(); ?>organizational-behavior-and-management-research">Organizational Behavior and Management </a></li>
                                         <li><a href="<?php echo base_url(); ?>product-evaluation-brand-studies-assessment-and-analysis">Product Evaluation, Brand Studies,<br><span class="footertxt "> Assessment and Analysis </span></a></li>
                                         <li><a href="<?php echo base_url(); ?>management-development-training-programmes">Management Development Training
                                                 <span class="footertxt "> Programmes</span> </a></li>

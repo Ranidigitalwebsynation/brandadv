@@ -29,7 +29,7 @@
                    <div class="blog-content">
 
                        <h2 class="blog-title">Our Advisors</h2>
-                       <!-- <ol class="mt-4">
+                       <ol class="mt-4">
                            <li>
                                <p>BRANDVOCATES India Private Limited (BIPL) is a MANAGEMENT DEVELOPMENT CONSULTING COMPANY having core strengths on BRANDING and IMAGE BUILDING. Studies, Research and Developments are the tools of our ideas, innovations, initiatives, and advocacies.</p>
                            </li>
@@ -47,7 +47,7 @@
                                <p>We design, develop, and execute NEED BASED MANAGEMENT DEVELOPMENT MODULES for the training of corporates, industries, and public utilities on the various model subjects of newer management policies, organizational behavior, performance excellence boosters, business development strategies and customer delight enlargement activities.</p>
                            </li>
 
-                       </ol> -->
+                       </ol>
                    </div>
 
 

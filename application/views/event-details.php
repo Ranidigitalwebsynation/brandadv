@@ -50,7 +50,7 @@
                             <div class="media-style4 ">
 
                                 <div class="media-body">
-                                    <p class="media-info">End Date <br><span>0 2-02-2024</span></p>
+                                    <p class="media-info">End Date <span>02-02-2024</span></p>
                                 </div>
                             </div>
                         </div>
