@@ -58,20 +58,20 @@
                     <h2 class="sec-title mb-4 pb-2">Send Us a Message</h2>
                     <div class="row gx-20">
                         <div class="col-md-6 form-group">
-                            <input type="text" placeholder="Your Name" name="name" id="name" class="form-control style4" required>
+                            <input type="text" placeholder="Your Name" name="name" id="name" class="form-control style4">
                         </div>
                         <div class="col-md-6 form-group">
-                            <input type="text" placeholder="Your Last Name" name=" last name" id=" last name" class="form-control style4" required>
+                            <input type="text" placeholder="Your Last Name" name=" last name" id=" last name" class="form-control style4">
                         </div>
                         <div class="col-md-6 form-group">
-                            <input type="email" placeholder="Your Email" name="email" id="email" class="form-control style4" required>
+                            <input type="email" placeholder="Your Email" name="email" id="email" class="form-control style4">
                         </div>
                         <div class="col-md-6 form-group">
-                            <input type="number" placeholder="Phone No" name="number" id="number" class="form-control style4" required>
+                            <input type="number" placeholder="Phone No" name="number" id="number" class="form-control style4">
                         </div>
 
                         <div class="form-group col-12">
-                            <textarea placeholder="Message" name="message" id="message" class="form-control style4"></textarea required>
+                            <textarea placeholder="Message" name="message" id="message" class="form-control style4"></textarea>
                         </div>
                         <div class="col-12">
                             <button class="vs-btn" type="submit">Submit Now</button>

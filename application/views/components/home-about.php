@@ -11,7 +11,7 @@
                 <div class="sec-line"></div>
                 <span class="sec-subtitle">About Brandvocates India Pvt Ltd</span>
                 <h3 class="event-title h4"> Brand Transformation Mastery</h3>
-                <p class="mb-xl-4 pb-xl-3 pe-xxl-4">BRANDVOCATES INDIA PVT LTD acts as a PROFESSIONAL VENTURE and advocates CORPORATE GOVERNANCE through awareness campaigns, educational activities, and communication events. Developing Innovative Corporate Policies, Creating Sound Functional Values and Promoting Fair Business Management Ethics will be the priority operational areas of BRANDVOCATES to facilitate the spirits of healthy business competitions.</p>
+                <p class="mb-xl-4 pb-xl-3 pe-xxl-4">Welcome to Brandvocates India, where we lead the charge in revolutionizing the learning and development landscape. As a dynamic force, we are committed to crafting innovative training experiences that cater to the evolving demands of today's workforce. With a keen focus on technology-driven skills and result-oriented competencies, we are the catalyst for change .</p>
                 <h3 class="h5 mb-0">Dr. Ved Upadhyay</h3>
                 <span class="d-block mb-3">Director, Company CEO</span>
                 <div>

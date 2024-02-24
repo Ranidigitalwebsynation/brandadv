@@ -39,12 +39,12 @@
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
-                            <a href="<?php echo base_url(); ?>blog-details">22 Aug, 2023</a>
+                            <a href="javascript:void(0)">22 Aug, 2023</a>
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>Peter Parker</a>
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>105 Comments</a>
+                                <a href="javascript:void(0)"><i class="fas fa-user"></i>Peter Parker</a>
+                                <a href="javascript:void(0)"><i class="fad fa-comment-alt-lines"></i>105 Comments</a>
                             </div>
                             <h3 class="blog-title h5"><a href="blog-details">Startup Business Solution Improve Your Quality...</a></h3>
                             <a href="<?php echo base_url(); ?>blog-details" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
@@ -59,12 +59,12 @@
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
-                            <a href="<?php echo base_url(); ?>blog-details">01 Dec, 2023</a>
+                            <a href="javascript:void(0)">01 Dec, 2023</a>
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>William Haqe</a>
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>923 Comments</a>
+                                <a href="javascript:void(0)"><i class="fas fa-user"></i>William Haqe</a>
+                                <a href="javascript:void(0)"><i class="fad fa-comment-alt-lines"></i>923 Comments</a>
                             </div>
                             <h3 class="blog-title h5"><a href="blog-details">Impossible admiration in particular conviction...</a></h3>
                             <a href="<?php echo base_url(); ?>blog-details" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
@@ -79,12 +79,12 @@
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
-                            <a href="<?php echo base_url(); ?>blog-details">13 Mar, 2023</a>
+                            <a href="javascript:void(0)">13 Mar, 2023</a>
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>Mark Polio</a>
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>896 Comments</a>
+                                <a href="javascript:void(0)"><i class="fas fa-user"></i>Mark Polio</a>
+                                <a href="javascript:void(0)"><i class="fad fa-comment-alt-lines"></i>896 Comments</a>
                             </div>
                             <h3 class="blog-title h5"><a href="blog-details">McClintock eye detail certainly helped narrow...</a></h3>
                             <a href="<?php echo base_url(); ?>blog-details" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
@@ -99,15 +99,15 @@
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
-                            <a href="<?php echo base_url(); ?>blog-details">22 Jun, 2023</a>
+                            <a href="javascript:void(0)">22 Jun, 2023</a>
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>David Walkar</a>
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
+                                <a href="javascript:void(0)"><i class="fas fa-user"></i>David Walkar</a>
+                                <a href="javascript:void(0)"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
                             </div>
-                            <h3 class="blog-title h5"><a href="blog-details   ">Creation timelines the standard passage vary...</a></h3>
-                            <a href="<?php echo base_url(); ?>blog-details   " class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
+                            <h3 class="blog-title h5"><a href="blog-details">Creation timelines the standard passage vary...</a></h3>
+                            <a href="<?php echo base_url(); ?>blog-details" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -115,19 +115,19 @@
             <div class="col-xl-4 col-md-6">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details   "><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-5.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
-                            <a href="<?php echo base_url(); ?>blog-details">22 Jun, 2023</a>
+                            <a href="javascript:void(0)">22 Jun, 2023</a>
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>David Walkar</a>
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
+                                <a href="javascript:void(0)"><i class="fas fa-user"></i>David Walkar</a>
+                                <a href="javascript:void(0)"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
                             </div>
-                            <h3 class="blog-title h5"><a href="blog-details   ">Creation timelines the standard passage vary...</a></h3>
-                            <a href="<?php echo base_url(); ?>blog-details   " class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
+                            <h3 class="blog-title h5"><a href="blog-details">Creation timelines the standard passage vary...</a></h3>
+                            <a href="<?php echo base_url(); ?>blog-details" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -135,19 +135,19 @@
             <div class="col-xl-4 col-md-6">
                 <div class="vs-blog blog-style2 layout2">
                     <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details   "><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-4.jpg" alt="Blog Image" class="w-100"></a>
+                        <a href="<?php echo base_url(); ?>blog-details"><img src="<?php echo base_url(); ?>assets/img/blog/blog-2-6.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">
-                            <a href="<?php echo base_url(); ?>blog-details">22 Jun, 2023</a>
+                            <a href="javascript:void(0)">22 Jun, 2023</a>
                         </div>
                         <div class="blog-content">
                             <div class="blog-meta">
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fas fa-user"></i>David Walkar</a>
-                                <a href="<?php echo base_url(); ?>blog-details"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
+                                <a href="javascript:void(0)"><i class="fas fa-user"></i>David Walkar</a>
+                                <a href="javascript:void(0)"><i class="fad fa-comment-alt-lines"></i>405 Comments</a>
                             </div>
-                            <h3 class="blog-title h5"><a href="blog-details   ">Creation timelines the standard passage vary...</a></h3>
-                            <a href="<?php echo base_url(); ?>blog-details   " class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
+                            <h3 class="blog-title h5"><a href="blog-details">Creation timelines the standard passage vary...</a></h3>
+                            <a href="<?php echo base_url(); ?>blog-details" class="icon-btn style4"><i class="far fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

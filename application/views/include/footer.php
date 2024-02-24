@@ -73,7 +73,7 @@
                                     <ul class="menu">
                                         <li><a href="<?php echo base_url(); ?>public-policy-studies">Public Policy Studies</a></li>
                                         <li><a href="<?php echo base_url(); ?>opinion-and-image-building-campaigns">Opinion and Image Building Campaigns </a></li>
-                                        <li><a href="<?php echo base_url(); ?>organizational-behavior-and-management-research">Organizational Behavior and Management </a></li>
+                                        <li><a href="<?php echo base_url(); ?>organizational-behavior-and-management-research">Organizational Behavior and Management z</a></li>
                                         <li><a href="<?php echo base_url(); ?>product-evaluation-brand-studies-assessment-and-analysis">Product Evaluation, Brand Studies,<br><span class="footertxt "> Assessment and Analysis </span></a></li>
                                         <li><a href="<?php echo base_url(); ?>management-development-training-programmes">Management Development Training
                                                 <span class="footertxt "> Programmes</span> </a></li>
@@ -95,19 +95,18 @@
             </div>
         </div>
     </div>
+
     <div class="copyright-wrap">
         <div class="container">
-            <div class=" align-items-center justify-content-between">
+            <div class="row align-items-center justify-content-between">
                 <div class="col-auto">
                     <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2024 <a href="<?php echo base_url(); ?>">Brandadv</a> - All Rights Reserved By <a href="<?php echo base_url(); ?>">Brandadv</a>.</p>
                 </div>
-                <!-- <div class="col-auto d-none d-md-block">
-                        <div class="header-social">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-google"></i></a>
-                        </div>
-                    </div> -->
+                <div class="col-auto d-none d-md-block">
+                    <div class="header-social">
+                        <p class="copyright-text">Designed by Digital Websynation</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

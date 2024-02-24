@@ -26,7 +26,7 @@
 
                 <div class="vs-blog blog-single">
                     <div class="blog-img">
-                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/blog/blog-s-1-1.jpg" alt="Blog Image">
+                        <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/blog/blog-s-1-2.jpg" alt="Blog Image">
                     </div>
                     <div class="blog-content">
                         <!-- <a class="blog-date" href="blog.php">01 Jan, 2023</a> -->

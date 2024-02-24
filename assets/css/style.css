@@ -4735,7 +4735,7 @@ a.text-theme:hover,
 }
 
 .header-links li a {
-  color: inherit;
+  color: #fff;
 }
 
 .header-links li a:hover {
@@ -4885,7 +4885,7 @@ a.text-theme:hover,
 .header-layout1 .header-social .social-label,
 .header-layout1 .header-dropdown>.dropdown-toggle,
 .header-layout1 .header-links li {
-  color: var(--light-color);
+  color: var(--white-color);
 }
 
 .header-layout2 .header-social a,
@@ -13324,8 +13324,8 @@ blockquote.vs-quote2 p {
 img.sticky-image.img-fluid {
   overflow: hidden;
   object-fit: fill;
-  max-height: 813px;
-  min-height: 813px;
+  /* max-height: 813px;
+  min-height: 813px; */
 }
 
 .blog-img img {

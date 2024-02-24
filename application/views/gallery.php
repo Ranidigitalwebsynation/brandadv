@@ -173,6 +173,246 @@
                </div>
             </div>
          </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-13.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-13.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-14.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-14.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-15.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-15.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-16.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-16.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-17.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-17.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-18.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-18.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-19.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-19.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-20.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-20.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-21.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-21.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-22.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-22.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-23.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-23.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-24.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-24.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-25.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-25.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-26.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-26.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-27.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-27.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-28.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-28.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-29.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-29.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-30.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-30.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-31.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-31.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
+         <div class="col-sm-6 col-xl-4 col-xxl-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="gallery-style4">
+               <div class="gallery-img">
+                  <a href="<?php echo base_url(); ?>assets/img/gallery/g-5-32.jpeg">
+                     <img src="<?php echo base_url(); ?>assets/img/gallery/g-5-32.jpeg" alt="gallery">
+                  </a>
+               </div>
+               <div class="gallery-content">
+                  <h3 class="gallery-title text-inherit">Brandvocates</h3>
+               </div>
+            </div>
+         </div>
       </div>
    </div>
 </section>

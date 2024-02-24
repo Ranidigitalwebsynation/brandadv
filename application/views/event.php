@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-xl-4 col-md-6 feature-multi">
                     <div class="feature-style1">
-                        <div class="feature-img"><img src="<?php echo base_url(); ?>assets/img/feature/feature-1-5.jpg" alt="features image"></div>
+                        <div class="feature-img"><img src="<?php echo base_url(); ?>assets/img/feature/feature 1-6.jpg" alt="features image"></div>
                         <div class="feature-content">
                             <div class="feature-icon">01 Dec, 2023</div>
                             <h3 class="feature-title h5"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Expert Consultation</a></h3>

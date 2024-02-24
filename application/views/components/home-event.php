@@ -1,6 +1,6 @@
 <!--==============================
-    Event Area
-    ==============================-->
+   Event Area
+   ==============================-->
 <section class="space-top space-extra-bottom">
     <div class="container">
         <div class="row justify-content-center">
@@ -119,8 +119,6 @@
                             </div>
                         </div>
                         <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 mt-3"><i class="far fa-long-arrow-right"></i></a>
-
-
                     </div>
                 </div>
             </div>

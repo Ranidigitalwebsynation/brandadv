@@ -133,7 +133,7 @@
                <div class="col-xl-4">
                    <div class="vs-blog blog-style1">
                        <div class="blog-img">
-                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-4.jpg" alt="Blog Image" class="w-100"></a>
+                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-5.jpg" alt="Blog Image" class="w-100"></a>
                        </div>
                        <div class="blog-content">
 
@@ -145,7 +145,7 @@
                <div class="col-xl-4">
                    <div class="vs-blog blog-style1">
                        <div class="blog-img">
-                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-4.jpg" alt="Blog Image" class="w-100"></a>
+                           <a href="javascript:void(0)"><img src="<?php echo base_url(); ?>assets/img/blog/blog-1-6.jpg" alt="Blog Image" class="w-100"></a>
                        </div>
                        <div class="blog-content">
 
