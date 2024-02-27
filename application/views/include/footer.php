@@ -39,11 +39,11 @@
                     <div class="widget widget_nav_menu  footer-widget">
                         <h3 class="widget_title">Useful Links</h3>
                         <div class="row gy-4">
-                            <div class="col-auto">
+                            <div class="col-xl-4 col-md-4 col-auto">
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
                                         <li><a href="<?php echo base_url(); ?>">Home</a></li>
-                                        <li><a href="<?php echo base_url(); ?>about">About Us</a></li>
+                                        <li><a href="<?php echo base_url(); ?>about">About </a></li>
                                         <li><a href="<?php echo base_url(); ?>#">Service</a></li>
                                         <li><a href="<?php echo base_url(); ?>event">Event</a></li>
                                         <li><a href="<?php echo base_url(); ?>report">Report</a></li>
@@ -51,12 +51,13 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-auto">
+                            <div class="col-xl-8 col-md-8  col-auto">
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
 
                                         <li><a href="<?php echo base_url(); ?>gallery">Gallery</a></li>
                                         <li><a href="<?php echo base_url(); ?>contact">Contact</a></li>
+                                        <li><a href="<?php echo base_url(); ?>privacy-policy"> Policy</a></li>
                                     </ul>
                                 </div>
                             </div>

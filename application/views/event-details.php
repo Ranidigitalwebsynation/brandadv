@@ -35,7 +35,7 @@
                         </marquee>
                     </div>
                     <div class="row gy-gx mb-5 mt-2">
-                        <div class="col-md-3 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="media-style4">
 
                                 <div class="media-body">
@@ -45,7 +45,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3 wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay="0.4s">
                             <div class="media-style4 ">
 
                                 <div class="media-body">
@@ -53,7 +53,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="col-md-3  col-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="media-style4">
 
                                 <div class="media-body">
@@ -61,7 +61,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="col-md-3  col-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="media-style4">
 
                                 <div class="media-body">

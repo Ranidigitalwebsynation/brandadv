@@ -21,7 +21,7 @@
            <div class="row gx-60">
                <div class="col-xl-6 mb-30 mb-xl-0 wow fadeInUp " data-wow-delay="0.3s">
                    <div class="img-box5 sticky-image">
-                       <div class="img-1"><img src="<?php echo base_url(); ?>assets/img/about/ab-8-1.jpg" alt="about"></div>
+                       <div class="img-1"><img src="<?php echo base_url(); ?>assets/img/service/service-d-1.jpg" alt="about"></div>
                        <div class="shape-1"></div>
                    </div>
                </div>
@@ -39,7 +39,7 @@
                        <ul class="list-unstyled">
                            <li><i class="far fa-arrow-alt-circle-right"></i>Business Consultin East and Central</li>
                            <p class="about-text1 mb-xl-3 mb-xxl-4 pb-2">Antony Karlson is responsible for Financial Company's operations both nationally and for the East and Central regions.Market evolve comping supply chains without virtual resourc. </p>
-                           <li><i class="far fa-arrow-alt-circle-right"></i>Consultin East and Central</li>
+
                        </ul>
                    </div>
 
@@ -53,9 +53,7 @@
                                </div>
                            </div>
                        </div>
-                       <div class="col-sm-auto">
-                           <a href="<?php echo base_url(); ?>#" download="#" class="vs-btn style7"> Download <i class="fas fa-download ms-2"></i></a>
-                       </div>
+
                    </div>
                </div>
            </div>

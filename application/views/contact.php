@@ -19,8 +19,27 @@
     ==============================-->
 <section class=" space-top">
     <div class="contact-map">
-        <div class="ratio ratio-21x9">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883" allowfullscreen=""></iframe>
+        <div class="mapouter">
+            <div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=1200&amp;height=500&amp;hl=en&amp;q=FF03, D-12 Acharga Miketan, Mayur Vihar I, Delhi 110091&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://connectionsgame.org/">Connections Unlimited</a></div>
+            <style>
+                .mapouter {
+                    position: relative;
+                    text-align: right;
+                    width: 100%;
+                    height: 500px;
+                }
+
+                .gmap_canvas {
+                    overflow: hidden;
+                    background: none !important;
+                    width: 100%;
+                    height: 500px;
+                }
+
+                .gmap_iframe {
+                    height: 500px !important;
+                }
+            </style>
         </div>
     </div>
     <div class="container">
@@ -28,7 +47,7 @@
             <div class="col-md-4 contact-box wow fadeInUp" data-wow-delay="0.3s">
                 <div class="contact-box__icon"><img src="<?php echo base_url(); ?>assets/img/icon/contact-1-1.png" alt="icon"></div>
                 <h3 class="contact-box__title h5">Office Address:</h3>
-                <p class="contact-box__text">Brandvocates, Paradise, Ff03, D12, Acharyaniketan, Mayur Vihar Phase1 Delhi 110091</p>
+                <p class="contact-box__text">FF03, D-12 Acharga Miketan, Mayur Vihar I, Delhi 110091</p>
             </div>
             <div class="col-md-4 contact-box wow fadeInUp" data-wow-delay="0.4s">
                 <div class="contact-box__icon"><img src="<?php echo base_url(); ?>assets/img/icon/contact-1-2.png" alt="icon"></div>
@@ -49,7 +68,7 @@
 <section class=" pt-20 space-bottom">
     <div class="container">
         <div class="row gx-60 align-items-center">
-            <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="col-lg-5 wow fadeInUp d-sm-none d-md-block" data-wow-delay="0.3s">
                 <img src="<?php echo base_url(); ?>assets/img/about/faq-1-1.png" alt="image">
             </div>
             <div class="col-lg-7 pt-5 pt-xl-0 wow fadeInUp" data-wow-delay="0.4s">

@@ -91,7 +91,7 @@
                </li>
 
                <li>
-                  <a href="<?php echo base_url(); ?> report">Report</a>
+                  <a href="<?php echo base_url(); ?>report">Report</a>
                </li>
                <li>
                   <a href="<?php echo base_url(); ?>event">Event</a>

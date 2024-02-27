@@ -201,4 +201,11 @@ class Welcome extends CI_Controller
 		$data["title"] = "Tittle";
 		$this->load->view('include/template', $data);
 	}
+	public function report_details()
+	{
+		$data = array();
+		$data["file"] = "report-details";
+		$data["title"] = "Tittle";
+		$this->load->view('include/template', $data);
+	}
 }

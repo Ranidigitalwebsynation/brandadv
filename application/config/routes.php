@@ -30,3 +30,4 @@ $route['management-development-training-programmes'] = 'Welcome/management_devel
 $route['strategy-development-management-workshops'] = 'Welcome/strategy_development_management_workshops';
 $route['brand-building-advocacies-perception-management-meetings'] = 'Welcome/brand_building_advocacies_perception_management_meetings';
 $route['customer-care'] = 'Welcome/customer_care';
+$route['report-details'] = 'Welcome/report_details';

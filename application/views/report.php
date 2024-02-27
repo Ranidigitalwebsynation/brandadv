@@ -1,4 +1,4 @@
-   <!--==============================
+   <!--==============================cta-img
     Breadcumb
 ============================== -->
    <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/header-bg-1-1.jpg">
@@ -17,25 +17,93 @@
 
 
 
-   <!--==============================
-      our comapny
-    ==============================-->
-   <section class="vs-blog-wrapper blog-details blog-wrap1 space-top space-extra-bottom" data-bg-src="assets/img/bg/blog-main-bg-2-1.jpg">
+
+   <section class="vs-blog-wrapper space">
        <div class="container">
-           <div class=" gx-40">
-               <div class="vs-blog blog-style4">
-                   <div class="blog-content">
-                       <h2 class="blog-title">Report</h2>
-                       <ul class="mt-4">
-                           <li>
-                               <p>A Management Development Training Workshop On Promoting The Professionalism And Excellence In The Executive Offices Of Government Organizations, Public Utilities And Companies Specialy Executed For The Front-line Management Officers</p>
-                           </li>
-                           <li>
-                               <p>The Brandvocates India Private Limited, a Corporate Training Institution, previously known as Public Dialogue Academy has organized a Management Development Training Workshop named Promoting the Professionalism and Excellence in the Executive Offices at Udaipur during 10-14th January 2023. This was a Five Days and Four Nights Training programme with well-structured sessions of board room training and site visits of vital places. The delegates arrived in the early morning of 10th January 2023 and departed on in the evening of 14th January 2023 and thus having substantial time of Five Full days for the training and development activities. The 20 Delegates of training enjoyed the training and expressed their utmost satisfaction over it. tAll the delegates participated in the training with all zeal, enthusiasm and excitement. The Attendance Sheet with signatures for all five days is attached herewith a piece of testimony. The participants exhibited their utmost discipline, punctuality and dedication in all the formal and informal sessions of training. </p>
-                           </li>
-                       </ul>
+           <div class="row justify-content-center">
+               <div class="col-xl-7 text-center wow fadeInUp" data-wow-delay="0.3s">
+                   <div class="title-area">
+                       <div class="sec-pills">
+                           <div class="pill"></div>
+                           <div class="pill"></div>
+                           <div class="pill"></div>
+                       </div>
+                       <!-- <span class="sec-subtitle">Blog & News</span> -->
+                       <h2 class="sec-title">Get Latest Report</h2>
                    </div>
                </div>
            </div>
+           <div class="row gx-4  wow fadeInUp">
+               <div class="col-xl-4  col-md-6 feature-multi">
+                   <div class="feature-style1">
+                       <div class="feature-img"><img src="<?php echo base_url(); ?>assets/img/feature/feature-1-1.jpg" alt="features image"></div>
+                       <div class="feature-content">
+
+                           <h3 class="feature-title h5 mt-4"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Complete Innovation</a></h3>
+                           <p class="feature-text">Markets evolve compelling supply chains without virtual resources. empowered customer service for reliable.</p>
+                           <div class="row mt-3">
+                               <div class="col-6 col-md-6 col-xl-6">
+                                   <i class="fas fa-comment-alt-lines"></i>
+                                   <span>Schedule</span>
+                               </div>
+                               <div class="col-6 col-md-6 col-xl-6">
+                                   <i class="fas fa-map-marker-alt"></i>
+                                   <span>Your Location</span>
+                               </div>
+                           </div>
+                           <div class="blog-bottom  mt-4 mb-3">
+                               <a href="<?php echo base_url(); ?>report-details" class="vs-btn report">Brief Report</a>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="col-xl-4 col-md-6 feature-multi">
+                   <div class="feature-style1">
+                       <div class="feature-img"><img src="<?php echo base_url(); ?>assets/img/feature/feature-1-1.jpg" alt="features image"></div>
+                       <div class="feature-content">
+
+                           <h3 class="feature-title h5 mt-4"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Complete Innovation</a></h3>
+                           <p class="feature-text">Markets evolve compelling supply chains without virtual resources. empowered customer service for reliable.</p>
+                           <div class="row mt-3">
+                               <div class="col-6 col-md-6 col-xl-6">
+                                   <i class="fas fa-comment-alt-lines"></i>
+                                   <span>Schedule</span>
+                               </div>
+                               <div class="col-6 col-md-6 col-xl-6">
+                                   <i class="fas fa-map-marker-alt"></i>
+                                   <span>Your Location</span>
+                               </div>
+                           </div>
+                           <div class="blog-bottom  mt-4 mb-3">
+                               <a href="#" class="vs-btn report">Brief Report</a>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="col-xl-4  col-md-6 feature-multi">
+                   <div class="feature-style1">
+                       <div class="feature-img"><img src="<?php echo base_url(); ?>assets/img/feature/feature-1-1.jpg" alt="features image"></div>
+                       <div class="feature-content">
+
+                           <h3 class="feature-title h5 mt-4"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Complete Innovation</a></h3>
+                           <p class="feature-text">Markets evolve compelling supply chains without virtual resources. empowered customer service for reliable.</p>
+                           <div class="row mt-3">
+                               <div class="col-6 col-md-6 col-xl-6">
+                                   <i class="fas fa-comment-alt-lines"></i>
+                                   <span>Schedule</span>
+                               </div>
+                               <div class="col-6 col-md-6 col-xl-6">
+                                   <i class="fas fa-map-marker-alt"></i>
+                                   <span>Your Location</span>
+                               </div>
+                           </div>
+                           <div class="blog-bottom  mt-4 mb-3">
+                               <a href="#" class="vs-btn report">Brief Report</a>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+
        </div>
    </section>
