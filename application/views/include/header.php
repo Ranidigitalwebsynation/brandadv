@@ -127,9 +127,9 @@
                <div class="col-auto">
                   <div class="header-social">
                      <span class="social-label">Get In Touch:</span>
-                     <a href="<?php echo base_url(); ?>#"><i class="fab fa-facebook-f"></i></a>
-                     <a href="<?php echo base_url(); ?>#"><i class="fab fa-twitter"></i></a>
-                     <a href="<?php echo base_url(); ?>#"><i class="fab fa-instagram"></i></a>
+                     <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                     <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+                     <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                   </div>
                </div>
             </div>

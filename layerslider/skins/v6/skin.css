@@ -12,14 +12,13 @@
 .ls-v6 .ls-playvideo,
 .ls-v6 .ls-playvideo:after {
 	transition: border .3s ease-in-out,
-				border-radius .2s ease-in-out,
-				background-color .3s ease-in-out,
-				-o-transform .2s ease-in-out,
-				-ms-transform .2s ease-in-out,
-				-moz-transform .2s ease-in-out,
-				-webkit-transform .2s ease-in-out,
-				transform .2s ease-in-out
-				!important;
+		border-radius .2s ease-in-out,
+		background-color .3s ease-in-out,
+		-o-transform .2s ease-in-out,
+		-ms-transform .2s ease-in-out,
+		-moz-transform .2s ease-in-out,
+		-webkit-transform .2s ease-in-out,
+		transform .2s ease-in-out !important;
 }
 
 .ls-v6 .ls-playvideo {
@@ -37,14 +36,14 @@
 	width: 26px;
 	height: 26px;
 	border: 3px solid transparent;
-	border-top: 3px solid rgba(255,255,255,0.75);
+	border-top: 3px solid rgba(255, 255, 255, 0.75);
 	right: 20px;
 	-o-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
 	transform: rotate(45deg);
-	border-right: 3px solid rgba(255,255,255,0.75);
+	border-right: 3px solid rgba(255, 255, 255, 0.75);
 }
 
 .ls-v6 .ls-playvideo:hover {
@@ -56,8 +55,8 @@
 }
 
 .ls-v6 .ls-playvideo:hover:after {
-	border-top-color: rgba(255,255,255,1) !important;
-	border-right-color: rgba(255,255,255,1) !important;
+	border-top-color: rgba(255, 255, 255, 1) !important;
+	border-right-color: rgba(255, 255, 255, 1) !important;
 }
 
 .ls-v6 .ls-nav-prev,
@@ -80,7 +79,7 @@
 	width: 26px;
 	height: 26px;
 	border: 3px solid transparent;
-	border-top: 3px solid rgba(255,255,255,0.75);
+	border-top: 3px solid rgba(255, 255, 255, 0.75);
 }
 
 .ls-v6 .ls-nav-prev:after {
@@ -90,7 +89,7 @@
 	-moz-transform: rotate(-45deg);
 	-webkit-transform: rotate(-45deg);
 	transform: rotate(-45deg);
-	border-left: 3px solid rgba(255,255,255,0.75);
+	border-left: 3px solid rgba(255, 255, 255, 0.75);
 }
 
 .ls-v6 .ls-nav-next:after {
@@ -100,7 +99,7 @@
 	-moz-transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
 	transform: rotate(45deg);
-	border-right: 3px solid rgba(255,255,255,0.75);
+	border-right: 3px solid rgba(255, 255, 255, 0.75);
 }
 
 .ls-v6 .ls-nav-prev:hover,
@@ -113,13 +112,13 @@
 }
 
 .ls-v6 .ls-nav-prev:hover:after {
-	border-top-color: rgba(255,255,255,1) !important;
-	border-left-color: rgba(255,255,255,1) !important;
+	border-top-color: rgba(255, 255, 255, 1) !important;
+	border-left-color: rgba(255, 255, 255, 1) !important;
 }
 
 .ls-v6 .ls-nav-next:hover:after {
-	border-top-color: rgba(255,255,255,1) !important;
-	border-right-color: rgba(255,255,255,1) !important;
+	border-top-color: rgba(255, 255, 255, 1) !important;
+	border-right-color: rgba(255, 255, 255, 1) !important;
 }
 
 .ls-v6 .ls-nav-prev {
@@ -139,19 +138,19 @@
 
 .ls-v6 .ls-bottom-slidebuttons a {
 	border-radius: 10px;
-	border: 2px solid rgba(255,255,255,0.75) !important;
+	border: 2px solid rgba(255, 255, 255, 0.75) !important;
 }
 
 .ls-v6 .ls-bottom-slidebuttons a.ls-nav-active {
-	background-color: rgba(255,255,255,0.75);
+	background-color: rgba(255, 255, 255, 0.75);
 }
 
 .ls-v6 .ls-bottom-slidebuttons a:hover {
-	border: 2px solid rgba(255,255,255,1) !important;
+	border: 2px solid rgba(255, 255, 255, 1) !important;
 }
 
 .ls-v6 .ls-bottom-slidebuttons a.ls-nav-active:hover {
-	background-color: rgba(255,255,255,1) !important;
+	background-color: rgba(255, 255, 255, 1) !important;
 }
 
 .ls-v6 .ls-nav-start:after {
@@ -164,8 +163,8 @@
 	-moz-transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
 	transform: rotate(45deg);
-	border-top: 2px solid rgba(255,255,255,0.75);
-	border-right: 2px solid rgba(255,255,255,0.75);
+	border-top: 2px solid rgba(255, 255, 255, 0.75);
+	border-right: 2px solid rgba(255, 255, 255, 0.75);
 	left: -14px;
 	top: -10px;
 }
@@ -181,13 +180,13 @@
 
 .ls-v6 .ls-nav-start:hover:after,
 .ls-v6 .ls-nav-start-active:after {
-	border-top: 2px solid rgba(255,255,255,1);
-	border-right: 2px solid rgba(255,255,255,1);
+	border-top: 2px solid rgba(255, 255, 255, 1);
+	border-right: 2px solid rgba(255, 255, 255, 1);
 }
 
 .ls-v6 .ls-nav-stop {
-	border-left: 2px solid rgba(255,255,255,0.75) !important;
-	border-right: 2px solid rgba(255,255,255,0.75) !important;
+	border-left: 2px solid rgba(255, 255, 255, 0.75) !important;
+	border-right: 2px solid rgba(255, 255, 255, 0.75) !important;
 	width: 4px;
 	height: 12px;
 	margin-left: 5px;
@@ -195,8 +194,8 @@
 
 .ls-v6 .ls-nav-stop:hover,
 .ls-v6 .ls-nav-stop-active {
-	border-left: 2px solid rgba(255,255,255,1) !important;
-	border-right: 2px solid rgba(255,255,255,1) !important;
+	border-left: 2px solid rgba(255, 255, 255, 1) !important;
+	border-right: 2px solid rgba(255, 255, 255, 1) !important;
 }
 
 .ls-v6 .ls-bottom-slidebuttons,

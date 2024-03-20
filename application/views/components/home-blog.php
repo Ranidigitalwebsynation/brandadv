@@ -16,8 +16,8 @@
         <div class="row vs-carousel wow fadeInUp" data-wow-delay="0.4s" data-slide-show="3" data-lg-slide-show="2" data-md-slide-show="2">
             <div class="col-xl-4">
                 <div class="vs-blog blog-style2 layout2">
-                    <div class="blog-img">
-                        <a href="<?php echo base_url(); ?>blog-details"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/blog/blog-2-1.jpg" alt="Blog Image" class="w-100"></a>
+                    <div class="blog-img ">
+                        <a href="<?php echo base_url(); ?>blog-details"><img class="img-fluid blog" src="<?php echo base_url(); ?>assets/img/blog/blog-2-1.jpg" alt="Blog Image" class="w-100"></a>
                     </div>
                     <div class="blog-body">
                         <div class="blog-date">

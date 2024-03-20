@@ -28,10 +28,10 @@
                             </ul>
                         </div>
                         <div class="header-social mt-4">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                 </div>
@@ -111,18 +111,35 @@
             </div>
         </div>
     </div>
-</footer> <!-- Scroll To Top -->
+</footer> 
+<div id="wp-stickybar">
+   <a href="https://wa.me/+917011019691" target="_blank" class="vs-btn wp-btn">What's App<i class="fab fa-whatsapp"></i></a>
+</div>
+<!-- Scroll To Top -->
 <a href="#" class="scrollToTop scroll-btn"><i class="far fa-arrow-up"></i></a>
 
 
-<!--********************************
-			Code End  Here 
-	******************************** -->
+<script>
+    window.addEventListener('scroll', function () {
+        var aboutHome = document.getElementById('about-home');
+        var stickyBar = document.getElementById('wp-stickybar');
+
+        // Calculate the distance between the top of the page and the top of the about-home section
+        var aboutHomeTop = aboutHome.offsetTop;
+
+        // Calculate the current scroll position
+        var scrollPosition = window.scrollY || window.pageYOffset;
+
+        // If the scroll position is greater than or equal to the about-home section top, show the sticky bar
+        if (scrollPosition >= aboutHomeTop) {
+            stickyBar.style.display = 'block';
+        } else {
+            stickyBar.style.display = 'none';
+        }
+    });
+</script>
 
 
-<!--==============================
-        All Js File
-    ============================== -->
 <!-- Jquery -->
 <script src="<?php echo base_url(); ?>assets/js/vendor/jquery-3.6.0.min.js"></script>
 <!-- Slick Slider -->

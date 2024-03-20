@@ -15,12 +15,7 @@
         </div>
     </div>
 
-
-
-
-
-
-    <section class="vs-blog-wrapper blog-details blog-wrap1 space-top space-extra-bottom">
+ <section class="vs-blog-wrapper blog-details blog-wrap1 space-top space-extra-bottom">
         <div class="container">
 
             <div class=" gx-40">
@@ -30,11 +25,11 @@
                         <img class="img-fluid" src="<?php echo base_url(); ?>assets/img/feature/feature-1-1.jpg" alt="Blog Image">
                     </div>
                     <div class="marquee">
-                        <marquee scrollamount="2" behavior="alternate" direction="right">
+                        <marquee scrollamount="2" behavior="alternate" direction="right" onMouseOver="this.stop()" onMouseOut="this.start()">
                             <h6> Location:Brandvocates, Paradise, Ff03, D12, Acharyaniketan, Mayur Vihar Phase1 Delhi 110091</h6>
                         </marquee>
                     </div>
-                    <div class="row gy-gx mb-5 mt-2">
+                    <div class=" row gy-gx mb-5 mt-2">
                         <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="media-style4">
 

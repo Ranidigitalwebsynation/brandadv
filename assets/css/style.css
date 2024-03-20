@@ -9131,9 +9131,9 @@ blockquote.vs-quote2 p {
   font-weight: 600;
 }
 
-.feature-style1 .feature-text {
+/* .feature-style1 .feature-text {
   margin: 0 0 27px 0;
-}
+} */
 
 .feature-style1 .feature-content {
   padding: 0 35px 25px 35px;
@@ -9835,7 +9835,33 @@ blockquote.vs-quote2 p {
   font-size: 22px;
   font-weight: 600;
   /* max-width: 200px; */
-  margin: 0;
+  margin-top: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+  .service-style4 .service-title {
+    font-size: 22px;
+    font-weight: 600;
+
+    margin-top: 60px !important;
+  }
+}
+
+/* @media only screen and (max-width: 500px) {
+  .service-style4 .service-title {
+    font-size: 22px;
+    font-weight: 600;
+
+    margin-top: 83px !important;
+  }
+} */
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  .service-style4 .service-title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 40px !important;
+  }
 }
 
 .service-style4:hover {
@@ -13343,9 +13369,8 @@ img.sticky-image.img-fluid {
 .blog-img img {
   overflow: hidden;
   object-fit: fill;
-
-  /* min-height: 646px;
-  max-height: 646px; */
+  /* min-height: 646px; */
+  max-height: 646px;
 }
 
 h3.blog-title.report.h5.mt-4.mb-4 {
@@ -13378,14 +13403,14 @@ a.vs-btn.report:hover {
   color: #025c87;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .ls-layer .ls-vs-btn {
     padding: 9px 19px;
     margin-right: 10px;
     font-size: 11px;
     margin-top: 30px;
   }
-}
+} */
 
 /* 
 @media(max-width: 1399px) {
@@ -13394,4 +13419,71 @@ a.vs-btn.report:hover {
   }
 } */
 
-/*# sourceMappingURL=style.css.map */
+.service-img {
+  width: 100%;
+  min-height: 158px;
+  max-height: 158px;
+}
+
+
+.ls-slide-backgrounds {
+  background-image: url("../img/hero/hero-1-1.jpg");
+  width: "1920px";
+  height: "967px";
+  background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+.apple {
+  font-size: 36px;
+  color: #000;
+  text-align: left;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-weight: 400;
+  letter-spacing: 0px;
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  left: 1460px;
+  top: 830px;
+  z-index: 600;
+}
+
+#wp-stickybar {
+
+  position: fixed;
+  transform: rotate(-90deg);
+  right: -100px;
+  width: 269px;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  z-index: 9999999;
+  bottom: 50%;
+
+}
+
+#wp-stickybar {
+  display: none;
+  /* Hide the element by default */
+}
+
+.wp-btn {
+  background-color: #2ab13f !important;
+}
+
+.wp-btn:hover {
+  color: #2ab13f !important;
+}
+
+.blog-img {
+
+  box-shadow: 0px 0px 20px 0px;
+}

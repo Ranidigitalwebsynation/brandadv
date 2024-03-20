@@ -21,20 +21,21 @@
                 <div class="feature-style1">
                     <div class="feature-img"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/feature/feature-1-1.jpg" alt="features image"></div>
                     <div class="feature-content">
-                        <div class="feature-icon">01 Dec, 2023</div>
-                        <h3 class="feature-title h5"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Complete Innovation</a></h3>
+
+                        <h3 class="feature-title h5 mt-3 "><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Complete Innovation</a></h3>
                         <p class="feature-text">Markets evolve compelling supply chains without virtual resources. empowered customer service for reliable.</p>
-                        <div class="row mt-3">
+                        <div class="row ">
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="far fa-clock">10:30AM</i>
+                                <i class="far fa-clock"> 10:30AM</i>
                                 <span></span>
                             </div>
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="fas fa-map-marker-alt"></i>
-                                <span>Your Location</span>
+                                <i class="fas fa-calendar"></i>
+                                <span> 05-03-2024</span>
                             </div>
                         </div>
-                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 mt-3"><i class="far fa-long-arrow-right"></i></a>
+                        <p class="feature-text mt-3"><i class="fas fa-map-marker-alt"> FF03, D-12 Acharga Miketan, Mayur Vihar I, Delhi 110091</i></p>
+                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 "><i class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -42,20 +43,21 @@
                 <div class="feature-style1">
                     <div class="feature-img"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/feature/feature-1-2.jpg" alt="features image"></div>
                     <div class="feature-content">
-                        <div class="feature-icon">01 Dec, 2023</div>
-                        <h3 class="feature-title h5"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Agency Growth Check</a></h3>
+
+                        <h3 class="feature-title h5 mt-3"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Agency Growth Check</a></h3>
                         <p class="feature-text">Markets evolve compelling supply chains without virtual resources. empowered customer service for reliable.</p>
-                        <div class="row mt-3">
+                        <div class="row ">
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="far fa-clock">10:30AM</i>
+                                <i class="far fa-clock"> 10:30AM</i>
                                 <span></span>
                             </div>
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="fas fa-map-marker-alt"></i>
-                                <span>Your Location</span>
+                                <i class="fas fa-calendar"></i>
+                                <span> 05-03-2024</span>
                             </div>
                         </div>
-                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 mt-3"><i class="far fa-long-arrow-right"></i></a>
+                        <p class="feature-text mt-3"><i class="fas fa-map-marker-alt"> FF03, D-12 Acharga Miketan, Mayur Vihar I, Delhi 110091</i></p>
+                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 "><i class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -63,20 +65,21 @@
                 <div class="feature-style1">
                     <div class="feature-img"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/feature/feature-1-3.jpg" alt="features image"></div>
                     <div class="feature-content">
-                        <div class="feature-icon">01 Dec, 2023</div>
-                        <h3 class="feature-title h5"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Business Startup</a></h3>
+
+                        <h3 class="feature-title h5 mt-3"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Business Startup</a></h3>
                         <p class="feature-text">Markets evolve compelling supply chains without virtual resources. empowered customer service for reliable.</p>
-                        <div class="row mt-3">
+                        <div class="row ">
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="far fa-clock">10:30AM</i>
+                                <i class="far fa-clock"> 10:30AM</i>
                                 <span></span>
                             </div>
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="fas fa-map-marker-alt"></i>
-                                <span>Your Location</span>
+                                <i class="fas fa-calendar"></i>
+                                <span> 05-03-2024</span>
                             </div>
                         </div>
-                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 mt-3"><i class="far fa-long-arrow-right"></i></a>
+                        <p class="feature-text mt-3"><i class="fas fa-map-marker-alt"> FF03, D-12 Acharga Miketan, Mayur Vihar I, Delhi 110091</i></p>
+                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 "><i class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -84,20 +87,21 @@
                 <div class="feature-style1">
                     <div class="feature-img"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/feature/feature-1-4.jpg" alt="features image"></div>
                     <div class="feature-content">
-                        <div class="feature-icon">01 Dec, 2023</div>
-                        <h3 class="feature-title h5"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Business Research</a></h3>
+
+                        <h3 class="feature-title h5 mt-3"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Business Research</a></h3>
                         <p class="feature-text">Markets evolve compelling supply chains without virtual resources. empowered customer service for reliable.</p>
-                        <div class="row mt-3">
+                        <div class="row ">
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="far fa-clock">10:30AM</i>
+                                <i class="far fa-clock"> 10:30AM</i>
                                 <span></span>
                             </div>
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="fas fa-map-marker-alt"></i>
-                                <span>Your Location</span>
+                                <i class="fas fa-calendar"></i>
+                                <span> 05-03-2024</span>
                             </div>
                         </div>
-                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 mt-3"><i class="far fa-long-arrow-right"></i></a>
+                        <p class="feature-text mt-3"><i class="fas fa-map-marker-alt"> FF03, D-12 Acharga Miketan, Mayur Vihar I, Delhi 110091</i></p>
+                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 "><i class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -105,20 +109,22 @@
                 <div class="feature-style1">
                     <div class="feature-img"><img class="img-fluid" src="<?php echo base_url(); ?>assets/img/feature/feature-1-5.jpg" alt="features image"></div>
                     <div class="feature-content">
-                        <div class="feature-icon">01 Dec, 2023</div>
-                        <h3 class="feature-title h5"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Expert Consultation</a></h3>
+
+                        <h3 class="feature-title h5 mt-3"><a class="text-inherit" href="<?php echo base_url(); ?>event-details">Expert Consultation</a></h3>
                         <p class="feature-text">Markets evolve compelling supply chains without virtual resources. empowered customer service for reliable.</p>
-                        <div class="row mt-3">
+
+                        <div class="row ">
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="far fa-clock">10:30AM</i>
+                                <i class="far fa-clock"> 10:30AM</i>
                                 <span></span>
                             </div>
                             <div class="col-6 col-md-6 col-xl-6">
-                                <i class="fas fa-map-marker-alt"></i>
-                                <span>Your Location</span>
+                                <i class="fas fa-calendar"></i>
+                                <span> 05-03-2024</span>
                             </div>
                         </div>
-                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 mt-3"><i class="far fa-long-arrow-right"></i></a>
+                        <p class="feature-text mt-3"><i class="fas fa-map-marker-alt"> FF03, D-12 Acharga Miketan, Mayur Vihar I, Delhi 110091</i></p>
+                        <a href="<?php echo base_url(); ?>event-details" class="icon-btn style2 "><i class="far fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

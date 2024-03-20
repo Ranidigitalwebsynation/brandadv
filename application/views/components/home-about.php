@@ -1,4 +1,4 @@
-<section class=" space">
+<section class="space" id="about-home">
     <div class="container">
         <div class="row">
             <div class=" col-lg-6 mb-40 mb-lg-0 wow fadeInUp" data-wow-delay="0.2s">
